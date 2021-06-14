@@ -28,7 +28,7 @@ if (array[j] > array[j + 1])
 temp = array[j];
 array[j] = array[j + 1];
 array[j + 1] = temp;
-print_array((const int *)array, size);
+print_array(array, size);
 }
 }
 }

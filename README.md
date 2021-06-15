@@ -23,6 +23,12 @@
 #### Tasks
 * [0.Bubble Sort](https://www.youtube.com/watch?v=lyZQPjUT5B4)
   * File name a). 0-bubble_sort.c -> a function that sorts an array of integers in ascending order using the [Bubble sort algorithm](https://en.wikipedia.org/wiki/Bubble_sort), b). 0-O -> the big O notations of the time complexity of the Bubble sort algorithm with order of best case, average case, worst case.
+* [1.Insertion sort](https://www.youtube.com/watch?v=nKzEJWbkPbQ&feature=emb_rel_pause)
+  * Files a). 1-insertion_sort_list.c -> a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort algorithm](https://en.wikipedia.org/wiki/Insertion_sort), b). 1-O -> the big O notations of the time complexity of the Insertion sort algorithm, with order of best case, average case, worst case.
+* [2.Selection sort](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+  * Files a). 2-selection_sort.c -> a function that sorts an array of integers in ascending order using the [Selection sort algorithm](https://en.wikipedia.org/wiki/Selection_sort), b). 2-O -> the big O notations of the time complexity of the Selection sort algorithm with order of best case, average case, worst case.
+* [3. Quick sort](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+  * Files a). 3-quick_sort.c -> a function that sorts an array of integers in ascending order using the [Quick sort algorithm](https://en.wikipedia.org/wiki/Quicksort), 3-O -> the big O notations of the time complexity of the Quick sort algorithm
 
 #### Author
 [Jane Ng'ethe](https://github.com/Janengethe?tab=repositories)

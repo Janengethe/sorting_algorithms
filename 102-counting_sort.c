@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * counting_sort - counting sort algo
  * @array: array to sort
@@ -10,7 +9,6 @@ void counting_sort(int *array, size_t size)
 size_t i;
 int j, k, num, dupl;
 int *counts;
-
 if (array == NULL || size < 2)
 return;
 k = array[0]; /* find max num to malloc size of new array */
@@ -47,6 +45,5 @@ for ((dupl = counts[j + 1] - counts[j]); dupl > 0; dupl--)
 array[i++] = (j + 1);
 }
 }
-
 free(counts);
 }

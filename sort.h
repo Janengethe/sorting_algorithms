@@ -69,6 +69,10 @@ void print_list(const listint_t *list);
 /*Files prototypes*/
 void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
+
+/*insertion_sort_list helper function*/
+void _swap(listint_t *node1, listint_t *node2, listint_t **head);
+
 void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 
